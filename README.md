@@ -23,9 +23,5 @@ GitHub Profile: [Adill Ijaz](https://github.com/Adil-Ijaz7)
 ## Contribution
 Feel free to fork this repository, submit issues, and contribute to the project. Contributions, suggestions, and improvements are always welcome!
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 Stay connected, and thanks for visiting my project! ✨
