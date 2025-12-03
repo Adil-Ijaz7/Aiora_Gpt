@@ -1,27 +1,39 @@
-# HTML/CSS & JS Project Using Google Gemini Frontend Concept
+# Aiora GPT — Google Gemini Frontend Concept
 
-## Project Overview
-This is a frontend project developed using the **Google Gemini** design principles and powered by modern HTML ,CSS & JavaScript. The goal of this project is to implement a clean, responsive, and user-friendly interface based on Google's Gemini concept, which emphasizes performance, accessibility, and beautiful design.
+Aiora GPT is a frontend prototype built with HTML, CSS, and JavaScript that follows Google Gemini design principles. This repository demonstrates a clean, responsive UI and a modular structure that can be adapted for demos, prototypes, or learning projects.
 
-### Key Features
-- **Responsive Design**: The layout is fully responsive, ensuring it adapts seamlessly across various screen sizes, from mobile devices to large desktops.
-- **Clean and Modern UI**: Following Google's minimalist design language, this project features a clean, simple, and aesthetically pleasing interface.
-- **Customizable Layout**: The HTML and CSS structure is flexible and can be easily adjusted or expanded to fit different use cases or branding.
-- **Performance Focused**: Optimized for fast load times and smooth interactions, following the principles of performance-first design.
+Key features
+- Responsive layout that works across mobile, tablet, and desktop.
+- Clean, minimalist UI following Google design concepts.
+- Modular HTML/CSS structure for easy customization.
+- Performance-minded: lightweight assets and simple JavaScript interactions.
 
-## Technologies Used
-- **HTML**: For structuring the content and layout of the page.
-- **CSS**: For styling and ensuring the page is responsive and visually appealing.
-- **Google Gemini Design Concept**: Incorporated throughout the project to ensure a modern and efficient frontend experience.
+Technologies
+- HTML
+- CSS (responsive layout)
+- JavaScript (vanilla)
 
-## Developer
-This project is developed by **Adill Ijaz**. If you found this project helpful, feel free to give it a star, follow me for more updates, and check out my other repositories!
+Getting started
+1. Clone the repo:
+   git clone https://github.com/Adil-Ijaz7/Aiora_Gpt.git
+2. Open index.html in a browser to preview the frontend.
 
-GitHub Profile: [Adill Ijaz](https://github.com/Adil-Ijaz7)
+Development
+- Edit the HTML files in the project root and the styles in the css/ folder.
+- Keep JavaScript behavior inside the js/ folder.
+- Use your browser devtools to experiment with responsive breakpoints and layout tweaks.
 
+Contributing
+Contributions are welcome. To contribute:
+1. Fork the repository.
+2. Create a feature branch: git checkout -b feature/your-feature
+3. Commit your changes and push: git push origin feature/your-feature
+4. Open a pull request describing your changes.
 
-## Contribution
-Feel free to fork this repository, submit issues, and contribute to the project. Contributions, suggestions, and improvements are always welcome!
+License
+This project is available under the MIT License — see the LICENSE file for details (if present).
 
+Author
+Developed by Adill Ijaz — https://github.com/Adil-Ijaz7
 
-Stay connected, and thanks for visiting my project! ✨
+If you want any specific additions (example pages, a local dev server setup, CI, or example components), tell me what you'd like and I can prepare them.
