@@ -34,6 +34,6 @@ License
 This project is available under the MIT License — see the LICENSE file for details (if present).
 
 Author
-Developed by Adill Ijaz — https://github.com/Adil-Ijaz7
+Developed by Adil Ijaz — https://github.com/Adil-Ijaz7
 
 If you want any specific additions (example pages, a local dev server setup, CI, or example components), tell me what you'd like and I can prepare them.
